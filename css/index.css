@@ -32,6 +32,11 @@ p{
     font-size: 25px;
 }
 
+.center
+{
+    text-align: center;
+}
+
 #offcanvasbody
 {
     background-color: #eeeeee;
