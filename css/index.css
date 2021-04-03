@@ -25,3 +25,19 @@ p{
     color: #30343F;
     font-size: large;
 }
+
+#offcanvasScrollingLabel
+{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+}
+
+#offcanvasbody
+{
+    background-color: #eeeeee;
+    text-align: left;
+    color: #30343F;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    margin-left: 0;
+}
