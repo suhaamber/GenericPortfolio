@@ -8,6 +8,12 @@ p{
     color: #eeeeee;
 }
 
+h1{
+    color: #eeeeee;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
 #headings{
     font-family: 'Josefin Sans', sans-serif;
     font-size: 40px;
